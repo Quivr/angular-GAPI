@@ -1,0 +1,26 @@
+{
+  "name": "angular-GAPI",
+  "version": "0.5.0",
+  "description": "A Google API module for AngularJS",
+  "homepage": "https://github.com/quivr/angular-GAPI",
+  "keywords": [
+    "google",
+    "api",
+    "calendar",
+    "youtube",
+    "googleplus",
+    "google+",
+    "drive",
+    "angular",
+    "angularjs"
+  ],
+  "main": "lib/angular-GAPI.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quivr/angular-GAPI.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Bernd Schrooten"
+  }
+}

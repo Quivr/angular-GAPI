@@ -1,0 +1,13 @@
+node_modules/*
+!/node_modules/express
+!/node_modules/http-proxy
+!/node_modules/minimist
+!/node_modules/readline-sync
+!/node_modules/supervisor
+!/node_modules/body-parser
+.idea
+.tmp
+dist
+logs
+.env
+.editorconfig

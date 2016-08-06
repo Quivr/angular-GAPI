@@ -1,7 +1,7 @@
 Angular-GAPI
 ============
 
-Angular-GAPI is a AngularJS module for accessing different [Google APIs](https://code.google.com/apis/console/).
+Angular-GAPI is an AngularJS module for accessing different [Google APIs](https://code.google.com/apis/console/).
 
 The code is based on [ngGAPI](https://github.com/christiansmith/ngGAPI)
 

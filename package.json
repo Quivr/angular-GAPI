@@ -1,6 +1,6 @@
 {
   "name": "angular-GAPI",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A Google API module for AngularJS",
   "homepage": "https://github.com/quivr/angular-GAPI",
   "keywords": [

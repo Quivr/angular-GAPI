@@ -44,7 +44,7 @@ _then [load](https://github.com/quivr/angular-GAPI#load) it in your html_
 ####Add module dependency
 
 ```javascript
-angular.module('app', [
+angular.module('myApp', [
   'angularGAPI'
 ]);
 ```

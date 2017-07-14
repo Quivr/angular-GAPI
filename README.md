@@ -26,14 +26,14 @@ ngGAPI requires Google API JavaScript client library
 <script src="https://apis.google.com/js/client.js"></script>
 ```
 
-##Installation
+## Installation
 
-####Bower
+#### Bower
 
 ```bash
 $ bower install quivr/angular-GAPI --save
 ```
-####Npm
+#### Npm
 
 ```bash
 $ npm install quivr/angular-GAPI --save
@@ -41,7 +41,7 @@ $ npm install quivr/angular-GAPI --save
 
 _then [load](https://github.com/quivr/angular-GAPI#load) it in your html_
 
-####Add module dependency
+#### Add module dependency
 
 ```javascript
 angular.module('myApp', [
@@ -49,7 +49,7 @@ angular.module('myApp', [
 ]);
 ```
 
-##Usage
+## Usage
 
 After you register your app in the [Google APIs Console](https://code.google.com/apis/console), configure angular-GAPI with credentials and whatever scopes you need for your app.
 
